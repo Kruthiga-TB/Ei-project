@@ -201,7 +201,7 @@ Implicit in object creation for Students and Assignments.
 <img width="391" height="134" alt="Screenshot 2025-10-01 215807" src="https://github.com/user-attachments/assets/e4ab3fb4-7803-4963-af5c-44d709f578f6" /><br>
 <img width="933" height="334" alt="Screenshot 2025-10-01 215728" src="https://github.com/user-attachments/assets/a9eb5928-f9e6-47b8-ab4a-f8fc5d9827f9" /><br>
 
-Error Scnenarios:
+Error Scenarios:
 
 <img width="887" height="99" alt="Screenshot 2025-10-01 215649" src="https://github.com/user-attachments/assets/50551683-3f5f-4d09-b195-4df8695b197e" /><br>
 
