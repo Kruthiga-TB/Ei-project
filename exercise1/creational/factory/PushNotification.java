@@ -15,6 +15,7 @@ public class PushNotification implements Notification {
         if (message == null || message.trim().isEmpty()) {
             throw new IllegalArgumentException("Message cannot be empty");
         }
-        System.out.println("📱 Push to device " + deviceId + ": " + message);
+        System.out.println("Push to device " + deviceId + ": " + message);
     }
 }
+
