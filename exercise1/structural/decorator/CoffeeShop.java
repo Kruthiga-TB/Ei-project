@@ -51,7 +51,7 @@ public class CoffeeShop {
                 System.out.println("Added sugar: " + drink.getDescription() + " - ₹" + drink.getCost());
             }
 
-            // Ask about cream (NEW)
+            // Ask about cream
             System.out.print("Add cream? (+₹20) (y/n): ");
             String addCream = scanner.nextLine();
             if (addCream.equalsIgnoreCase("y")) {
@@ -69,4 +69,5 @@ public class CoffeeShop {
             System.out.println("Error: " + e.getMessage());
         }
     }
+
 }
