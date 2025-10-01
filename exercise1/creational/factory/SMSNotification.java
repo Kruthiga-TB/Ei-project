@@ -18,6 +18,7 @@ public class SMSNotification implements Notification {
         if (message.length() > 160) {
             throw new IllegalArgumentException("SMS message too long (max 160 characters)");
         }
-        System.out.println("📱 SMS to " + phoneNumber + ": " + message);
+        System.out.println("SMS to " + phoneNumber + ": " + message);
     }
+
 }
