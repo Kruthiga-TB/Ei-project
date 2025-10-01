@@ -37,7 +37,7 @@ public class VirtualClassroomManager {
     }
 
     private void displayWelcome() {
-        System.out.println("\n🎓 Virtual Classroom Manager");
+        System.out.println("\nVirtual Classroom Manager");
         System.out.println("=============================");
     }
 
@@ -164,7 +164,7 @@ public class VirtualClassroomManager {
         } else {
             System.out.println("\nStudents in " + args + ":");
             for (Student student : students) {
-                System.out.println("👨‍🎓 " + student);
+                System.out.println("Student " + student);
             }
         }
     }
@@ -181,7 +181,7 @@ public class VirtualClassroomManager {
         } else {
             System.out.println("\nAssignments in " + args + ":");
             for (Assignment assignment : assignments) {
-                System.out.println("📝 " + assignment);
+                System.out.println("Assignment " + assignment);
             }
         }
     }
@@ -227,3 +227,4 @@ public class VirtualClassroomManager {
         }
     }
 }
+
