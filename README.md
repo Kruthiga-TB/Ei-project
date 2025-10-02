@@ -21,7 +21,7 @@
 <img width="228" height="53" alt="Screenshot 2025-10-01 221037" src="https://github.com/user-attachments/assets/7855ce4c-c312-4788-a410-b4d9e7c360cd" /><br>
 
 
-Error Scenarios:
+Error Cases:
 
 <img width="439" height="74" alt="Screenshot 2025-10-01 221250" src="https://github.com/user-attachments/assets/4cff25f9-360b-48e7-8c21-8775f74edca0" /><br>
 
@@ -41,7 +41,7 @@ Error Scenarios:
 <img width="855" height="124" alt="Screenshot 2025-10-01 221728" src="https://github.com/user-attachments/assets/28861370-ef41-45ba-943c-a926357bfe0c" /><br>
 <img width="739" height="134" alt="Screenshot 2025-10-01 221739" src="https://github.com/user-attachments/assets/a9676efb-8ef6-4040-b9d9-9a6f58fc1b4d" /><br>
 
-Error Scenarios:
+Error Cases:
 
 <img width="483" height="107" alt="Screenshot 2025-10-01 221748" src="https://github.com/user-attachments/assets/9ac1d7db-ee4a-42da-a903-32702286820c" />
 <img width="355" height="101" alt="Screenshot 2025-10-01 221752" src="https://github.com/user-attachments/assets/74d2b4a6-64f2-485d-9f1b-8fa95b6229f5" /><br>
@@ -61,7 +61,7 @@ Error Scenarios:
 <img width="1013" height="129" alt="Screenshot 2025-10-01 223323" src="https://github.com/user-attachments/assets/a62b20f1-1d13-4669-8de0-ee39118d7e54" /><br>
 
 
-Error Scenarios:
+Error Cases:
 
 <img width="356" height="48" alt="Screenshot 2025-10-01 223327" src="https://github.com/user-attachments/assets/6f0ce4ad-280c-4ddb-94d7-37aa55b1a9da" /><br>
 
@@ -84,7 +84,7 @@ Error Scenarios:
 <img width="909" height="421" alt="Screenshot 2025-10-01 224250" src="https://github.com/user-attachments/assets/f6fc59f7-8fa2-4bfe-83be-ca110cddc79a" /><br>
 
 
-Error Scenarios:
+Error Cases:
 
 <img width="351" height="98" alt="Screenshot 2025-10-01 224258" src="https://github.com/user-attachments/assets/e3843c65-3d58-4477-985f-a63f9dbed7d4" />
 <img width="420" height="61" alt="Screenshot 2025-10-01 224307" src="https://github.com/user-attachments/assets/9aaaba56-46d8-4f21-9374-b33f41c318e4" /><br>
@@ -107,7 +107,7 @@ Error Scenarios:
 
 
 
-Error Scenarios:
+Error Cases:
 
 <img width="475" height="156" alt="Screenshot 2025-10-01 225412" src="https://github.com/user-attachments/assets/b917ca45-3229-4cd4-aa26-13eb698f5012" /><br>
 
@@ -201,7 +201,7 @@ Implicit in object creation for Students and Assignments.
 <img width="368" height="127" alt="Screenshot 2025-10-02 074853" src="https://github.com/user-attachments/assets/7cc7bd3b-0623-415b-a198-0dfedf638872" /><br>
 <img width="933" height="334" alt="Screenshot 2025-10-01 215728" src="https://github.com/user-attachments/assets/a9eb5928-f9e6-47b8-ab4a-f8fc5d9827f9" /><br>
 
-Error Scenarios:
+Error Cases:
 
 <img width="863" height="87" alt="Screenshot 2025-10-02 074903" src="https://github.com/user-attachments/assets/0ebd509d-a39c-44be-b461-c53dae5f7017" /><br>
 
