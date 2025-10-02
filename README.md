@@ -16,8 +16,8 @@
 **StockTradingApp.java**: Main application that demonstrates the Observer pattern with user interaction for adding traders and updating stock prices.
 
 <img width="348" height="136" alt="Screenshot 2025-10-01 221019" src="https://github.com/user-attachments/assets/62f6dc6b-adf6-411f-be03-d9922f7bdfff" /><br>
-<img width="390" height="74" alt="Screenshot 2025-10-01 221025" src="https://github.com/user-attachments/assets/06983393-3db6-448c-b1f5-0d7a2aea6423" /><br>
-<img width="506" height="113" alt="Screenshot 2025-10-01 221029" src="https://github.com/user-attachments/assets/2725f940-1b49-47f2-93d8-393034986bf8" /><br>
+<img width="332" height="75" alt="Screenshot 2025-10-02 074109" src="https://github.com/user-attachments/assets/3896ba1e-4deb-4ed6-be49-1d6585a3b08e" /><br>
+<img width="426" height="124" alt="Screenshot 2025-10-02 074118" src="https://github.com/user-attachments/assets/2b650c95-60c6-400b-8c4b-5149d5739770" /><br>
 <img width="228" height="53" alt="Screenshot 2025-10-01 221037" src="https://github.com/user-attachments/assets/7855ce4c-c312-4788-a410-b4d9e7c360cd" /><br>
 
 
@@ -57,7 +57,7 @@ Error Scenarios:
 **ReportBuilderApp.java**: Main application that demonstrates building reports with validation and user input.
 
 <img width="277" height="115" alt="Screenshot 2025-10-01 223242" src="https://github.com/user-attachments/assets/7de95d22-b53e-4c08-bd04-aa2a96e990d9" /><br>
-<img width="1180" height="186" alt="Screenshot 2025-10-01 223315" src="https://github.com/user-attachments/assets/b54dad92-f98b-4505-8ad4-b527a5381e6b" /><br>
+<img width="1113" height="181" alt="Screenshot 2025-10-02 074517" src="https://github.com/user-attachments/assets/a2e9fc4a-fbcb-4b79-bda8-0977652ba41b" /><br>
 <img width="1013" height="129" alt="Screenshot 2025-10-01 223323" src="https://github.com/user-attachments/assets/a62b20f1-1d13-4669-8de0-ee39118d7e54" /><br>
 
 
@@ -196,14 +196,14 @@ Implicit in object creation for Students and Assignments.
 
 <img width="751" height="346" alt="Screenshot 2025-10-01 215912" src="https://github.com/user-attachments/assets/3a2cb3c2-cb5e-4e6a-b1fb-c4b0e0995b19" /><br>
 <img width="597" height="81" alt="Screenshot 2025-10-01 215630" src="https://github.com/user-attachments/assets/7f427a62-954a-4875-8e37-9e16391ea260" /><br>
-<img width="667" height="94" alt="Screenshot 2025-10-01 215637" src="https://github.com/user-attachments/assets/8da2aee7-27c9-4627-8914-04360ecf4a65" /><br>
+<img width="666" height="82" alt="Screenshot 2025-10-02 074834" src="https://github.com/user-attachments/assets/61bc25ea-625a-402b-a6f8-820e2b222fc1" /><br>
 <img width="1138" height="91" alt="Screenshot 2025-10-01 215656" src="https://github.com/user-attachments/assets/3498a49b-9819-4357-b6b6-2cdf1f6a2109" /><br>
-<img width="391" height="134" alt="Screenshot 2025-10-01 215807" src="https://github.com/user-attachments/assets/e4ab3fb4-7803-4963-af5c-44d709f578f6" /><br>
+<img width="368" height="127" alt="Screenshot 2025-10-02 074853" src="https://github.com/user-attachments/assets/7cc7bd3b-0623-415b-a198-0dfedf638872" /><br>
 <img width="933" height="334" alt="Screenshot 2025-10-01 215728" src="https://github.com/user-attachments/assets/a9eb5928-f9e6-47b8-ab4a-f8fc5d9827f9" /><br>
 
 Error Scenarios:
 
-<img width="887" height="99" alt="Screenshot 2025-10-01 215649" src="https://github.com/user-attachments/assets/50551683-3f5f-4d09-b195-4df8695b197e" /><br>
+<img width="863" height="87" alt="Screenshot 2025-10-02 074903" src="https://github.com/user-attachments/assets/0ebd509d-a39c-44be-b461-c53dae5f7017" /><br>
 
 
 # Code Quality Highlights
